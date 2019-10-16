@@ -1,0 +1,9 @@
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\bin\Debug\Practica1_ConvertImg.exe.config
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\bin\Debug\Practica1_ConvertImg.exe
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\bin\Debug\Practica1_ConvertImg.pdb
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\obj\Debug\Practica1_ConvertImg.csprojResolveAssemblyReference.cache
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\obj\Debug\Practica1_ConvertImg.Form1.resources
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\obj\Debug\Practica1_ConvertImg.Properties.Resources.resources
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\obj\Debug\Practica1_ConvertImg.csproj.GenerateResource.Cache
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\obj\Debug\Practica1_ConvertImg.exe
+F:\LCD\Practica1_ConvertImg\Practica1_ConvertImg\obj\Debug\Practica1_ConvertImg.pdb
