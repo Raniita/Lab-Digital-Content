@@ -1,0 +1,6 @@
+F:\LCD\smtp\smtp\bin\smtp.dll.config
+F:\LCD\smtp\smtp\bin\smtp.dll
+F:\LCD\smtp\smtp\bin\smtp.pdb
+F:\LCD\smtp\smtp\obj\Debug\smtp.csprojResolveAssemblyReference.cache
+F:\LCD\smtp\smtp\obj\Debug\smtp.dll
+F:\LCD\smtp\smtp\obj\Debug\smtp.pdb

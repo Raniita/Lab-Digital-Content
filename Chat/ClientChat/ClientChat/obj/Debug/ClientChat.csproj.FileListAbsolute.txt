@@ -1,0 +1,9 @@
+F:\LCD\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+F:\LCD\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+F:\LCD\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+F:\LCD\ClientChat\ClientChat\obj\Debug\ClientChat.Form1.resources
+F:\LCD\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+F:\LCD\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+F:\LCD\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+F:\LCD\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
+F:\LCD\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+F:\LCD\ServerChat\ServerChat\bin\Debug\ServerChat.exe.config
+F:\LCD\ServerChat\ServerChat\bin\Debug\ServerChat.exe
+F:\LCD\ServerChat\ServerChat\bin\Debug\ServerChat.pdb
+F:\LCD\ServerChat\ServerChat\obj\Debug\ServerChat.csprojResolveAssemblyReference.cache
+F:\LCD\ServerChat\ServerChat\obj\Debug\ServerChat.Form1.resources
+F:\LCD\ServerChat\ServerChat\obj\Debug\ServerChat.Properties.Resources.resources
+F:\LCD\ServerChat\ServerChat\obj\Debug\ServerChat.csproj.GenerateResource.Cache
+F:\LCD\ServerChat\ServerChat\obj\Debug\ServerChat.exe
+F:\LCD\ServerChat\ServerChat\obj\Debug\ServerChat.pdb

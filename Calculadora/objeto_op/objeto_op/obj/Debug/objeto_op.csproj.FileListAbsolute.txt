@@ -1,0 +1,4 @@
+F:\LCD\Calculadora\objeto_op\objeto_op\bin\Debug\objeto_op.dll
+F:\LCD\Calculadora\objeto_op\objeto_op\bin\Debug\objeto_op.pdb
+F:\LCD\Calculadora\objeto_op\objeto_op\obj\Debug\objeto_op.dll
+F:\LCD\Calculadora\objeto_op\objeto_op\obj\Debug\objeto_op.pdb
